@@ -8,7 +8,7 @@ slime depends naturally on SLiM and also use [artwiz-latin1][3] font sets,
 else, edit the theme--slim.theme--to any font wanted.
 
 **PREVIEW**
-![]( https://raw.githubusercontent.com/tokiclover/slim-themes-slime/slime-preview.png)
+![]( https://github.com/tokiclover/slim-themes-slime/blob/master/slime-preview.png)
 
 [1]: http://sourceforge.net/projects/slim.berlios
 [2]: http://www.enlightenment.org/p.php?p=about/terminology
